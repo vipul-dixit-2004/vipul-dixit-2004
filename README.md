@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20There!%20I'm%20Vipul%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20GenAI%20%7C%20SIH%202025%20Winner&descAlignY=55&descSize=16" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Agentic+AI+Products;SIH+2025+Winner+%F0%9F%8F%86;ECE+Undergrad+%40+IIIT+Kota" alt="Typing SVG" />
 
 </div>
@@ -14,8 +12,7 @@ I'm an Electronics & Communication Engineering undergrad at **IIIT Kota**, curre
 
 - 🎓 B.Tech, Electronics & Communication Engineering — IIIT Kota (CGPA: 8.31/10)
 - 💼 Full Stack Developer Intern @ [Unifindss](https://unifindss.com/) · Star Performer 🌟
-- 🏆 Winner — Smart India Hackathon (SIH) 2025
-- 🔭 Currently building **Calenderly** — an AI-assisted, multi-timezone scheduling platform
+- 🏆 Winner - Smart India Hackathon (SIH) 2025
 - 🌱 Currently exploring agentic AI tool-calling, DevOps, and cloud deployment
 - 📍 Jaipur, Rajasthan, India
 - 📫 Reach me at **vipuldixit.work@gmail.com**
